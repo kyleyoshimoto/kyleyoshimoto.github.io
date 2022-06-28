@@ -42,7 +42,3 @@ ul {
     display: block;
     margin: auto;
 }
-
-a:hover {
-    border: solid black 5px;
-}
